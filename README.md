@@ -1,0 +1,2 @@
+# household_account_book_ios
+夫婦またはカップル専用の家計簿iOSアプリケーション
