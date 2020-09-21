@@ -1,0 +1,6 @@
+framework module Pods_household_account_book_ios {
+  umbrella header "Pods-household_account_book_ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
